@@ -19,7 +19,13 @@ public class PlayerMovement : MonoBehaviour
     public bool jump = false;
 
     public AudioClip jumpSound;
-    
+    public Transform bulletSpawn;
+    public GameObject bulletPrefab;
+    private bool canShoot = true; 
+    public float timer; 
+    public float rateOffire = 1f; 
+
+
 
     void Awake()
     {
@@ -61,7 +67,7 @@ public class PlayerMovement : MonoBehaviour
         {
             rBody.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
             anim.SetBool("isJumping", true);
-            source.PlayOneShot(jumpSound);
+            //source.PlayOneShot(jumpSound);
         }
         
         if(inputHorizontal < 0)
@@ -79,10 +85,11 @@ public class PlayerMovement : MonoBehaviour
             anim.SetBool("isRunning", false);
         }
         if(Input.GetButtonDown("Fire1"))
-         {
+        {
             Shoot();
-
         }
+
+        
 
     }
 
@@ -94,6 +101,20 @@ public class PlayerMovement : MonoBehaviour
     void Shoot()
     {
         anim.SetTrigger("isShooting");
+        if(!canShoot)
+        {
+            timer += Time.deltaTime;
+            if(timer >= rateOffire)
+            {
+                canShoot = true;
+                timer = 0; 
+            }
+        }
+        if (Input.GetKeyDown(KeyCode.F) && canShoot)
+        {
+            Instantiate(bulletPrefab, bulletSpawn.position, bulletSpawn.rotation); 
+            canShoot = false; 
+        }
         
     }
 }
