@@ -84,10 +84,9 @@ public class PlayerMovement : MonoBehaviour
         {
             anim.SetBool("isRunning", false);
         }
-        if(Input.GetButtonDown("Fire1"))
-        {
-            Shoot();
-        }
+
+        Shoot();
+        
 
         
 
@@ -100,7 +99,6 @@ public class PlayerMovement : MonoBehaviour
 
     void Shoot()
     {
-        anim.SetTrigger("isShooting");
         if(!canShoot)
         {
             timer += Time.deltaTime;
@@ -112,6 +110,7 @@ public class PlayerMovement : MonoBehaviour
         }
         if (Input.GetKeyDown(KeyCode.F) && canShoot)
         {
+            anim.SetTrigger("isShooting");
             Instantiate(bulletPrefab, bulletSpawn.position, bulletSpawn.rotation); 
             canShoot = false; 
         }

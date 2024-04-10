@@ -133,7 +133,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5704674}
   - component: {fileID: 5704675}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (145)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -217,7 +217,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5842398}
   - component: {fileID: 5842399}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: 2 tierra  (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -385,7 +385,7 @@ GameObject:
   m_Component:
   - component: {fileID: 33630573}
   - component: {fileID: 33630574}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (149)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -469,7 +469,7 @@ GameObject:
   m_Component:
   - component: {fileID: 54654160}
   - component: {fileID: 54654161}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: 2 tierra  (31)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -553,7 +553,7 @@ GameObject:
   m_Component:
   - component: {fileID: 61025347}
   - component: {fileID: 61025348}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (167)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -637,7 +637,7 @@ GameObject:
   m_Component:
   - component: {fileID: 64914836}
   - component: {fileID: 64914837}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (118)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -721,7 +721,7 @@ GameObject:
   m_Component:
   - component: {fileID: 72999626}
   - component: {fileID: 72999627}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (136)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -805,7 +805,7 @@ GameObject:
   m_Component:
   - component: {fileID: 77340477}
   - component: {fileID: 77340478}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (60)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -889,7 +889,7 @@ GameObject:
   m_Component:
   - component: {fileID: 88718997}
   - component: {fileID: 88718998}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (11)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -973,7 +973,7 @@ GameObject:
   m_Component:
   - component: {fileID: 89946698}
   - component: {fileID: 89946699}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (54)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1057,7 +1057,7 @@ GameObject:
   m_Component:
   - component: {fileID: 96440598}
   - component: {fileID: 96440599}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (79)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1141,7 +1141,7 @@ GameObject:
   m_Component:
   - component: {fileID: 109472479}
   - component: {fileID: 109472480}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (31)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1309,7 +1309,7 @@ GameObject:
   m_Component:
   - component: {fileID: 116273794}
   - component: {fileID: 116273795}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (14)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1393,7 +1393,7 @@ GameObject:
   m_Component:
   - component: {fileID: 117273528}
   - component: {fileID: 117273529}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (173)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1477,7 +1477,7 @@ GameObject:
   m_Component:
   - component: {fileID: 118867210}
   - component: {fileID: 118867211}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (199)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1561,7 +1561,7 @@ GameObject:
   m_Component:
   - component: {fileID: 121632553}
   - component: {fileID: 121632554}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (110)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1645,7 +1645,7 @@ GameObject:
   m_Component:
   - component: {fileID: 126283063}
   - component: {fileID: 126283064}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (45)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1729,7 +1729,7 @@ GameObject:
   m_Component:
   - component: {fileID: 128114303}
   - component: {fileID: 128114304}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (126)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1813,7 +1813,7 @@ GameObject:
   m_Component:
   - component: {fileID: 131497513}
   - component: {fileID: 131497514}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (215)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1897,7 +1897,7 @@ GameObject:
   m_Component:
   - component: {fileID: 131740294}
   - component: {fileID: 131740295}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1981,7 +1981,7 @@ GameObject:
   m_Component:
   - component: {fileID: 141650249}
   - component: {fileID: 141650250}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (140)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2065,7 +2065,7 @@ GameObject:
   m_Component:
   - component: {fileID: 155128124}
   - component: {fileID: 155128125}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (165)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2149,7 +2149,7 @@ GameObject:
   m_Component:
   - component: {fileID: 159855039}
   - component: {fileID: 159855040}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (63)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2317,7 +2317,7 @@ GameObject:
   m_Component:
   - component: {fileID: 184428452}
   - component: {fileID: 184428453}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (211)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2485,7 +2485,7 @@ GameObject:
   m_Component:
   - component: {fileID: 198643327}
   - component: {fileID: 198643328}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (194)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2653,7 +2653,7 @@ GameObject:
   m_Component:
   - component: {fileID: 207589405}
   - component: {fileID: 207589406}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (87)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2737,7 +2737,7 @@ GameObject:
   m_Component:
   - component: {fileID: 209842946}
   - component: {fileID: 209842947}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (61)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2821,7 +2821,7 @@ GameObject:
   m_Component:
   - component: {fileID: 211730534}
   - component: {fileID: 211730535}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (182)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -2905,7 +2905,7 @@ GameObject:
   m_Component:
   - component: {fileID: 214127375}
   - component: {fileID: 214127376}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: 2 tierra  (24)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3073,7 +3073,7 @@ GameObject:
   m_Component:
   - component: {fileID: 232967873}
   - component: {fileID: 232967874}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (180)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3157,7 +3157,7 @@ GameObject:
   m_Component:
   - component: {fileID: 234496078}
   - component: {fileID: 234496079}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (33)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3241,7 +3241,7 @@ GameObject:
   m_Component:
   - component: {fileID: 235477666}
   - component: {fileID: 235477667}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: 2 tierra  (12)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3325,7 +3325,7 @@ GameObject:
   m_Component:
   - component: {fileID: 237705759}
   - component: {fileID: 237705760}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3409,7 +3409,7 @@ GameObject:
   m_Component:
   - component: {fileID: 240299514}
   - component: {fileID: 240299515}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (90)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3493,7 +3493,7 @@ GameObject:
   m_Component:
   - component: {fileID: 242967294}
   - component: {fileID: 242967295}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (55)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3577,7 +3577,7 @@ GameObject:
   m_Component:
   - component: {fileID: 244065934}
   - component: {fileID: 244065935}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: terreno 1 (19)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3661,7 +3661,7 @@ GameObject:
   m_Component:
   - component: {fileID: 244926204}
   - component: {fileID: 244926205}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (115)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3745,7 +3745,7 @@ GameObject:
   m_Component:
   - component: {fileID: 248409569}
   - component: {fileID: 248409570}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (104)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3829,7 +3829,7 @@ GameObject:
   m_Component:
   - component: {fileID: 268067388}
   - component: {fileID: 268067389}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: terreno 1 (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3913,7 +3913,7 @@ GameObject:
   m_Component:
   - component: {fileID: 282308506}
   - component: {fileID: 282308507}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (70)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4081,7 +4081,7 @@ GameObject:
   m_Component:
   - component: {fileID: 290391284}
   - component: {fileID: 290391285}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: terreno 1 (15)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4165,7 +4165,7 @@ GameObject:
   m_Component:
   - component: {fileID: 292510505}
   - component: {fileID: 292510506}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (89)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4341,7 +4341,7 @@ GameObject:
   m_Component:
   - component: {fileID: 306272241}
   - component: {fileID: 306272242}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (28)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4509,7 +4509,7 @@ GameObject:
   m_Component:
   - component: {fileID: 322605251}
   - component: {fileID: 322605252}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (80)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4593,7 +4593,7 @@ GameObject:
   m_Component:
   - component: {fileID: 350667673}
   - component: {fileID: 350667674}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (47)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4677,7 +4677,7 @@ GameObject:
   m_Component:
   - component: {fileID: 352983970}
   - component: {fileID: 352983971}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: 2 tierra  (34)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4761,7 +4761,7 @@ GameObject:
   m_Component:
   - component: {fileID: 353289384}
   - component: {fileID: 353289385}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (119)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4845,7 +4845,7 @@ GameObject:
   m_Component:
   - component: {fileID: 355613227}
   - component: {fileID: 355613228}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: 2 tierra  (35)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4929,7 +4929,7 @@ GameObject:
   m_Component:
   - component: {fileID: 365445042}
   - component: {fileID: 365445043}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (65)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5013,7 +5013,7 @@ GameObject:
   m_Component:
   - component: {fileID: 373118287}
   - component: {fileID: 373118288}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: terreno 1 (16)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5097,7 +5097,7 @@ GameObject:
   m_Component:
   - component: {fileID: 378773748}
   - component: {fileID: 378773749}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (201)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5181,7 +5181,7 @@ GameObject:
   m_Component:
   - component: {fileID: 385507483}
   - component: {fileID: 385507484}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (42)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5265,7 +5265,7 @@ GameObject:
   m_Component:
   - component: {fileID: 385508030}
   - component: {fileID: 385508031}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5349,7 +5349,7 @@ GameObject:
   m_Component:
   - component: {fileID: 406200487}
   - component: {fileID: 406200488}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (152)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5433,7 +5433,7 @@ GameObject:
   m_Component:
   - component: {fileID: 410932005}
   - component: {fileID: 410932006}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (10)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5517,7 +5517,7 @@ GameObject:
   m_Component:
   - component: {fileID: 414021790}
   - component: {fileID: 414021791}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (137)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5601,7 +5601,7 @@ GameObject:
   m_Component:
   - component: {fileID: 415527317}
   - component: {fileID: 415527318}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: 2 tierra  (15)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5685,7 +5685,7 @@ GameObject:
   m_Component:
   - component: {fileID: 419583455}
   - component: {fileID: 419583456}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: terreno 1 (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5769,7 +5769,7 @@ GameObject:
   m_Component:
   - component: {fileID: 431251435}
   - component: {fileID: 431251436}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (190)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5937,7 +5937,7 @@ GameObject:
   m_Component:
   - component: {fileID: 436316528}
   - component: {fileID: 436316529}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (12)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6021,7 +6021,7 @@ GameObject:
   m_Component:
   - component: {fileID: 440573576}
   - component: {fileID: 440573577}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (18)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6105,7 +6105,7 @@ GameObject:
   m_Component:
   - component: {fileID: 445726100}
   - component: {fileID: 445726101}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (72)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6330,7 +6330,7 @@ GameObject:
   m_Component:
   - component: {fileID: 477032317}
   - component: {fileID: 477032318}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (186)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6414,7 +6414,7 @@ GameObject:
   m_Component:
   - component: {fileID: 477709407}
   - component: {fileID: 477709408}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (32)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6498,7 +6498,7 @@ GameObject:
   m_Component:
   - component: {fileID: 478791136}
   - component: {fileID: 478791137}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (200)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6582,7 +6582,7 @@ GameObject:
   m_Component:
   - component: {fileID: 480953551}
   - component: {fileID: 480953552}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (213)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6666,7 +6666,7 @@ GameObject:
   m_Component:
   - component: {fileID: 481898908}
   - component: {fileID: 481898909}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (99)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6750,7 +6750,7 @@ GameObject:
   m_Component:
   - component: {fileID: 485500203}
   - component: {fileID: 485500204}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (222)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6947,7 +6947,7 @@ GameObject:
   m_Component:
   - component: {fileID: 495190083}
   - component: {fileID: 495190084}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (57)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7031,7 +7031,7 @@ GameObject:
   m_Component:
   - component: {fileID: 509570403}
   - component: {fileID: 509570404}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7115,7 +7115,7 @@ GameObject:
   m_Component:
   - component: {fileID: 523618922}
   - component: {fileID: 523618923}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (169)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7199,7 +7199,7 @@ GameObject:
   m_Component:
   - component: {fileID: 525856432}
   - component: {fileID: 525856433}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: terreno 1 (17)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7283,7 +7283,7 @@ GameObject:
   m_Component:
   - component: {fileID: 549457590}
   - component: {fileID: 549457591}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (85)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7367,7 +7367,7 @@ GameObject:
   m_Component:
   - component: {fileID: 559465133}
   - component: {fileID: 559465134}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (9)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7451,7 +7451,7 @@ GameObject:
   m_Component:
   - component: {fileID: 576725407}
   - component: {fileID: 576725408}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (142)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7535,7 +7535,7 @@ GameObject:
   m_Component:
   - component: {fileID: 577321370}
   - component: {fileID: 577321371}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (203)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7619,7 +7619,7 @@ GameObject:
   m_Component:
   - component: {fileID: 582309982}
   - component: {fileID: 582309983}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: terreno 1 (10)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7703,7 +7703,7 @@ GameObject:
   m_Component:
   - component: {fileID: 588731135}
   - component: {fileID: 588731136}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (107)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7871,7 +7871,7 @@ GameObject:
   m_Component:
   - component: {fileID: 592230163}
   - component: {fileID: 592230164}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (155)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7955,7 +7955,7 @@ GameObject:
   m_Component:
   - component: {fileID: 597243749}
   - component: {fileID: 597243750}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (197)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8039,7 +8039,7 @@ GameObject:
   m_Component:
   - component: {fileID: 598226234}
   - component: {fileID: 598226235}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (132)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8123,7 +8123,7 @@ GameObject:
   m_Component:
   - component: {fileID: 605034828}
   - component: {fileID: 605034829}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: terreno 1 (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8207,7 +8207,7 @@ GameObject:
   m_Component:
   - component: {fileID: 606755999}
   - component: {fileID: 606756000}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: terreno 1 (13)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8291,7 +8291,7 @@ GameObject:
   m_Component:
   - component: {fileID: 608542059}
   - component: {fileID: 608542060}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (162)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8375,7 +8375,7 @@ GameObject:
   m_Component:
   - component: {fileID: 615849025}
   - component: {fileID: 615849026}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (64)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8459,7 +8459,7 @@ GameObject:
   m_Component:
   - component: {fileID: 617463659}
   - component: {fileID: 617463660}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: 2 tierra  (17)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8543,7 +8543,7 @@ GameObject:
   m_Component:
   - component: {fileID: 631301038}
   - component: {fileID: 631301039}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (102)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8627,7 +8627,7 @@ GameObject:
   m_Component:
   - component: {fileID: 633606723}
   - component: {fileID: 633606724}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (20)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8711,7 +8711,7 @@ GameObject:
   m_Component:
   - component: {fileID: 635253956}
   - component: {fileID: 635253957}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (100)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8795,7 +8795,7 @@ GameObject:
   m_Component:
   - component: {fileID: 640210466}
   - component: {fileID: 640210467}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: terreno 1 (12)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8879,7 +8879,7 @@ GameObject:
   m_Component:
   - component: {fileID: 642053685}
   - component: {fileID: 642053686}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (44)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -8963,7 +8963,7 @@ GameObject:
   m_Component:
   - component: {fileID: 648398374}
   - component: {fileID: 648398375}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (43)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9047,7 +9047,7 @@ GameObject:
   m_Component:
   - component: {fileID: 649445153}
   - component: {fileID: 649445154}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: 2 tierra  (10)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9215,7 +9215,7 @@ GameObject:
   m_Component:
   - component: {fileID: 653782205}
   - component: {fileID: 653782206}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (52)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9299,7 +9299,7 @@ GameObject:
   m_Component:
   - component: {fileID: 659737308}
   - component: {fileID: 659737309}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (144)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9383,7 +9383,7 @@ GameObject:
   m_Component:
   - component: {fileID: 663327191}
   - component: {fileID: 663327192}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (210)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9467,7 +9467,7 @@ GameObject:
   m_Component:
   - component: {fileID: 669192898}
   - component: {fileID: 669192899}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (16)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9551,7 +9551,7 @@ GameObject:
   m_Component:
   - component: {fileID: 672589756}
   - component: {fileID: 672589757}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (191)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9635,7 +9635,7 @@ GameObject:
   m_Component:
   - component: {fileID: 677262461}
   - component: {fileID: 677262462}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (195)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9719,7 +9719,7 @@ GameObject:
   m_Component:
   - component: {fileID: 677901373}
   - component: {fileID: 677901374}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (139)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9803,7 +9803,7 @@ GameObject:
   m_Component:
   - component: {fileID: 679962547}
   - component: {fileID: 679962548}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (81)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9887,7 +9887,7 @@ GameObject:
   m_Component:
   - component: {fileID: 686763282}
   - component: {fileID: 686763283}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (184)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9971,7 +9971,7 @@ GameObject:
   m_Component:
   - component: {fileID: 692189564}
   - component: {fileID: 692189565}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: 2 tierra  (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10055,7 +10055,7 @@ GameObject:
   m_Component:
   - component: {fileID: 693388306}
   - component: {fileID: 693388307}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: 2 tierra  (13)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10139,7 +10139,7 @@ GameObject:
   m_Component:
   - component: {fileID: 704761282}
   - component: {fileID: 704761283}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (161)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10451,7 +10451,7 @@ Transform:
   m_GameObject: {fileID: 721362790}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -2.3, y: -0.15, z: 0}
+  m_LocalPosition: {x: -10.08, y: -1.82, z: 0}
   m_LocalScale: {x: 0.148467, y: 0.148467, z: 0.148467}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -10483,7 +10483,7 @@ MonoBehaviour:
   bulletSpawn: {fileID: 1711610457}
   bulletPrefab: {fileID: 5484406332661440903, guid: 7ca312518d0d795448c2db9336e53ae6, type: 3}
   timer: 5
-  rateOffire: 5
+  rateOffire: 1
 --- !u!95 &721362796
 Animator:
   serializedVersion: 5
@@ -10515,7 +10515,7 @@ GameObject:
   m_Component:
   - component: {fileID: 724024231}
   - component: {fileID: 724024232}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (177)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10599,7 +10599,7 @@ GameObject:
   m_Component:
   - component: {fileID: 725430794}
   - component: {fileID: 725430795}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (97)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10683,7 +10683,7 @@ GameObject:
   m_Component:
   - component: {fileID: 728652642}
   - component: {fileID: 728652643}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (113)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10767,7 +10767,7 @@ GameObject:
   m_Component:
   - component: {fileID: 729099957}
   - component: {fileID: 729099958}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (27)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10851,7 +10851,7 @@ GameObject:
   m_Component:
   - component: {fileID: 731717796}
   - component: {fileID: 731717797}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: terreno 1 (22)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10935,7 +10935,7 @@ GameObject:
   m_Component:
   - component: {fileID: 740111293}
   - component: {fileID: 740111294}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: 2 tierra  (21)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11019,7 +11019,7 @@ GameObject:
   m_Component:
   - component: {fileID: 751492924}
   - component: {fileID: 751492925}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (56)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11187,7 +11187,7 @@ GameObject:
   m_Component:
   - component: {fileID: 767270659}
   - component: {fileID: 767270660}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (91)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11271,7 +11271,7 @@ GameObject:
   m_Component:
   - component: {fileID: 768002862}
   - component: {fileID: 768002863}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: terreno 1 (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11355,7 +11355,7 @@ GameObject:
   m_Component:
   - component: {fileID: 772559932}
   - component: {fileID: 772559933}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (114)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11439,7 +11439,7 @@ GameObject:
   m_Component:
   - component: {fileID: 778274906}
   - component: {fileID: 778274907}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (163)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11523,7 +11523,7 @@ GameObject:
   m_Component:
   - component: {fileID: 780179842}
   - component: {fileID: 780179843}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (157)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11691,7 +11691,7 @@ GameObject:
   m_Component:
   - component: {fileID: 817510343}
   - component: {fileID: 817510344}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (150)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11775,7 +11775,7 @@ GameObject:
   m_Component:
   - component: {fileID: 823038608}
   - component: {fileID: 823038609}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (221)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11859,7 +11859,7 @@ GameObject:
   m_Component:
   - component: {fileID: 825710655}
   - component: {fileID: 825710656}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (133)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -11943,7 +11943,7 @@ GameObject:
   m_Component:
   - component: {fileID: 827824888}
   - component: {fileID: 827824889}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (170)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12027,7 +12027,7 @@ GameObject:
   m_Component:
   - component: {fileID: 839086141}
   - component: {fileID: 839086142}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (196)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12111,7 +12111,7 @@ GameObject:
   m_Component:
   - component: {fileID: 847536080}
   - component: {fileID: 847536081}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (224)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12279,7 +12279,7 @@ GameObject:
   m_Component:
   - component: {fileID: 854237187}
   - component: {fileID: 854237188}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (95)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12363,7 +12363,7 @@ GameObject:
   m_Component:
   - component: {fileID: 857637847}
   - component: {fileID: 857637848}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: 2 tierra  (29)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12531,7 +12531,7 @@ GameObject:
   m_Component:
   - component: {fileID: 862467518}
   - component: {fileID: 862467519}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12615,7 +12615,7 @@ GameObject:
   m_Component:
   - component: {fileID: 881670666}
   - component: {fileID: 881670667}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (116)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12699,7 +12699,7 @@ GameObject:
   m_Component:
   - component: {fileID: 890615779}
   - component: {fileID: 890615780}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (66)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12783,7 +12783,7 @@ GameObject:
   m_Component:
   - component: {fileID: 895823907}
   - component: {fileID: 895823908}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (153)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12867,7 +12867,7 @@ GameObject:
   m_Component:
   - component: {fileID: 896149993}
   - component: {fileID: 896149994}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (166)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -12951,7 +12951,7 @@ GameObject:
   m_Component:
   - component: {fileID: 915306524}
   - component: {fileID: 915306525}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (120)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13119,7 +13119,7 @@ GameObject:
   m_Component:
   - component: {fileID: 917677668}
   - component: {fileID: 917677669}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (192)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13203,7 +13203,7 @@ GameObject:
   m_Component:
   - component: {fileID: 918296769}
   - component: {fileID: 918296770}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: 2 tierra  (33)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13287,7 +13287,7 @@ GameObject:
   m_Component:
   - component: {fileID: 921988953}
   - component: {fileID: 921988954}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (101)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13371,7 +13371,7 @@ GameObject:
   m_Component:
   - component: {fileID: 935397443}
   - component: {fileID: 935397444}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (179)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13539,7 +13539,7 @@ GameObject:
   m_Component:
   - component: {fileID: 952264900}
   - component: {fileID: 952264901}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (207)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13623,7 +13623,7 @@ GameObject:
   m_Component:
   - component: {fileID: 958827144}
   - component: {fileID: 958827145}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (146)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13707,7 +13707,7 @@ GameObject:
   m_Component:
   - component: {fileID: 960425889}
   - component: {fileID: 960425890}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -13790,7 +13790,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 969223243}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: 'suelo '
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14071,7 +14071,7 @@ GameObject:
   m_Component:
   - component: {fileID: 969987393}
   - component: {fileID: 969987394}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (21)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14155,7 +14155,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1001040878}
   - component: {fileID: 1001040879}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: 2 tierra  (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14239,7 +14239,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1010570125}
   - component: {fileID: 1010570126}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: 2 tierra  (19)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14407,7 +14407,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1021572402}
   - component: {fileID: 1021572403}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (94)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14491,7 +14491,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1032639281}
   - component: {fileID: 1032639282}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: terreno 1 (11)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14575,7 +14575,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1036232614}
   - component: {fileID: 1036232615}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: 2 tierra  (30)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14659,7 +14659,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1039206310}
   - component: {fileID: 1039206311}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: terreno 1 (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14743,7 +14743,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1039920521}
   - component: {fileID: 1039920522}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: 2 tierra  (27)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14827,7 +14827,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1051071531}
   - component: {fileID: 1051071532}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (98)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14911,7 +14911,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1051226202}
   - component: {fileID: 1051226203}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (39)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -14995,7 +14995,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1051343330}
   - component: {fileID: 1051343331}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (159)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15079,7 +15079,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1056762180}
   - component: {fileID: 1056762181}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (86)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15194,7 +15194,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1061422611}
   - component: {fileID: 1061422612}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (187)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15278,7 +15278,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1072032806}
   - component: {fileID: 1072032807}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (15)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15362,7 +15362,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1084179482}
   - component: {fileID: 1084179483}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (51)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15446,7 +15446,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1087861143}
   - component: {fileID: 1087861144}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (30)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15530,7 +15530,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1106957216}
   - component: {fileID: 1106957217}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (204)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15698,7 +15698,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1112280053}
   - component: {fileID: 1112280054}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: terreno 1 (9)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15782,7 +15782,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1120189921}
   - component: {fileID: 1120189922}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (71)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15866,7 +15866,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1128297181}
   - component: {fileID: 1128297182}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (75)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -15950,7 +15950,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1133043191}
   - component: {fileID: 1133043192}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (117)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16034,7 +16034,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1145920442}
   - component: {fileID: 1145920443}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (154)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16118,7 +16118,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1164206715}
   - component: {fileID: 1164206716}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (128)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16286,7 +16286,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1181526501}
   - component: {fileID: 1181526502}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (123)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16370,7 +16370,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1187244902}
   - component: {fileID: 1187244903}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: 2 tierra  (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16454,7 +16454,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1189464287}
   - component: {fileID: 1189464288}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (135)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16622,7 +16622,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1197824291}
   - component: {fileID: 1197824292}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (188)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16706,7 +16706,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1211658842}
   - component: {fileID: 1211658843}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (35)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16874,7 +16874,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1233318642}
   - component: {fileID: 1233318643}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (219)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -16958,7 +16958,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1237919005}
   - component: {fileID: 1237919006}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (46)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17126,7 +17126,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1245392799}
   - component: {fileID: 1245392800}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (124)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17210,7 +17210,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1253498087}
   - component: {fileID: 1253498088}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (92)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17294,7 +17294,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1253979166}
   - component: {fileID: 1253979167}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: 2 tierra  (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17378,7 +17378,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1262995556}
   - component: {fileID: 1262995557}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (223)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17462,7 +17462,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1268387896}
   - component: {fileID: 1268387897}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (131)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17546,7 +17546,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1271678992}
   - component: {fileID: 1271678993}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: 2 tierra  (9)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17798,7 +17798,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1289127880}
   - component: {fileID: 1289127881}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: terreno 1 (18)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -17966,7 +17966,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1307462828}
   - component: {fileID: 1307462829}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (209)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18050,7 +18050,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1314753585}
   - component: {fileID: 1314753586}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (26)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18134,7 +18134,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1323333374}
   - component: {fileID: 1323333375}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: 2 tierra  (28)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18218,7 +18218,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1325112265}
   - component: {fileID: 1325112266}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (168)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18302,7 +18302,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1342956450}
   - component: {fileID: 1342956451}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18386,7 +18386,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1346623572}
   - component: {fileID: 1346623573}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (48)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18501,7 +18501,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1351258279}
   - component: {fileID: 1351258280}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: 2 tierra  (32)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18585,7 +18585,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1361773990}
   - component: {fileID: 1361773991}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (130)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18669,7 +18669,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1362113304}
   - component: {fileID: 1362113305}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: 2 tierra  (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18753,7 +18753,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1370123663}
   - component: {fileID: 1370123664}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (38)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -18921,7 +18921,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1410146543}
   - component: {fileID: 1410146544}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: terreno 1 (14)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19005,7 +19005,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1425503338}
   - component: {fileID: 1425503339}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (216)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19089,7 +19089,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1430839320}
   - component: {fileID: 1430839321}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (171)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19173,7 +19173,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1435437617}
   - component: {fileID: 1435437618}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: terreno 1 (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19257,7 +19257,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1447498632}
   - component: {fileID: 1447498633}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (147)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19372,7 +19372,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1481636026}
   - component: {fileID: 1481636027}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (68)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -19477,7 +19477,7 @@ GameObject:
   - component: {fileID: 1483418136}
   - component: {fileID: 1483418135}
   - component: {fileID: 1483418134}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: plataforma  (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20535,7 +20535,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1492919360}
   - component: {fileID: 1492919361}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (103)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20619,7 +20619,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1503444693}
   - component: {fileID: 1503444694}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (84)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20703,7 +20703,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1507243564}
   - component: {fileID: 1507243565}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (193)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20787,7 +20787,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1518800571}
   - component: {fileID: 1518800572}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (174)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20871,7 +20871,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1523223006}
   - component: {fileID: 1523223007}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (22)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -20955,7 +20955,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1524877894}
   - component: {fileID: 1524877895}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (105)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21039,7 +21039,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1525637727}
   - component: {fileID: 1525637728}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (138)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21207,7 +21207,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1542022916}
   - component: {fileID: 1542022917}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (106)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21291,7 +21291,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1552101331}
   - component: {fileID: 1552101332}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (214)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21375,7 +21375,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1563421547}
   - component: {fileID: 1563421548}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (202)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21459,7 +21459,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1576557305}
   - component: {fileID: 1576557306}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (108)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21543,7 +21543,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1576897902}
   - component: {fileID: 1576897903}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (220)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21704,7 +21704,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1618404108}
   - component: {fileID: 1618404109}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: terreno 1 (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21788,7 +21788,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1621311394}
   - component: {fileID: 1621311395}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (25)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21872,7 +21872,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1627258351}
   - component: {fileID: 1627258352}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (151)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -21956,7 +21956,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1628199139}
   - component: {fileID: 1628199140}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (205)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22040,7 +22040,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1638801928}
   - component: {fileID: 1638801929}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (109)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22124,7 +22124,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1644998721}
   - component: {fileID: 1644998722}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (183)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22208,7 +22208,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1656822384}
   - component: {fileID: 1656822385}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (160)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22376,7 +22376,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1661632751}
   - component: {fileID: 1661632752}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: 2 tierra  (20)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22460,7 +22460,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1676016494}
   - component: {fileID: 1676016495}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22544,7 +22544,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1676060202}
   - component: {fileID: 1676060203}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: 2 tierra  (26)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22628,7 +22628,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1683254805}
   - component: {fileID: 1683254806}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (141)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22712,7 +22712,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1691081623}
   - component: {fileID: 1691081624}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (218)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22796,7 +22796,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1697940569}
   - component: {fileID: 1697940570}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (172)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22880,7 +22880,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1699478696}
   - component: {fileID: 1699478697}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (129)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -22964,7 +22964,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1701865296}
   - component: {fileID: 1701865297}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (29)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23125,7 +23125,7 @@ Transform:
   m_GameObject: {fileID: 1708330116}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 7.59, y: 4.48, z: -10}
+  m_LocalPosition: {x: 9.9, y: 3.12, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -23145,8 +23145,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   playerTransform: {fileID: 721362794}
   offset: {x: 0, y: 0, z: -10}
-  minCameraPosition: {x: -6, y: -1.4}
-  maxCameraPosition: {x: 6, y: 3}
+  minCameraPosition: {x: -7.29, y: -1.47}
+  maxCameraPosition: {x: 9.9, y: 3.12}
 --- !u!1 &1711610456
 GameObject:
   m_ObjectHideFlags: 0
@@ -23188,7 +23188,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1726874897}
   - component: {fileID: 1726874898}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (122)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23272,7 +23272,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1737121922}
   - component: {fileID: 1737121923}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (96)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23356,7 +23356,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1741718943}
   - component: {fileID: 1741718944}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (175)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23440,7 +23440,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1743586644}
   - component: {fileID: 1743586645}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: 2 tierra  (23)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23524,7 +23524,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1743977069}
   - component: {fileID: 1743977070}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (189)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23608,7 +23608,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1767490027}
   - component: {fileID: 1767490028}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (148)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23692,7 +23692,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1771940999}
   - component: {fileID: 1771941000}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (78)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23776,7 +23776,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1783031439}
   - component: {fileID: 1783031440}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (49)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23860,7 +23860,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1783453327}
   - component: {fileID: 1783453328}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (212)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -23944,7 +23944,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1821103074}
   - component: {fileID: 1821103075}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (208)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24112,7 +24112,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1833104400}
   - component: {fileID: 1833104401}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (88)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24196,7 +24196,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1835903146}
   - component: {fileID: 1835903147}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (206)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24280,7 +24280,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1851971934}
   - component: {fileID: 1851971935}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (158)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24364,7 +24364,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1868636742}
   - component: {fileID: 1868636743}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (121)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24448,7 +24448,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1868980099}
   - component: {fileID: 1868980100}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: '2 tierra '
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24532,7 +24532,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1872086307}
   - component: {fileID: 1872086308}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (67)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24700,7 +24700,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1872867301}
   - component: {fileID: 1872867302}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (125)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24868,7 +24868,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1881507702}
   - component: {fileID: 1881507703}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (62)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -24952,7 +24952,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1898349840}
   - component: {fileID: 1898349841}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (69)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25036,7 +25036,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1898368361}
   - component: {fileID: 1898368362}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: 2 tierra  (16)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25120,7 +25120,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1903271701}
   - component: {fileID: 1903271702}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: terreno 1 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25372,7 +25372,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1917620789}
   - component: {fileID: 1917620790}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: 2 tierra  (14)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25456,7 +25456,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1925961281}
   - component: {fileID: 1925961282}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (76)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25540,7 +25540,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1927776955}
   - component: {fileID: 1927776956}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: terreno 1 (20)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25624,7 +25624,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1929115783}
   - component: {fileID: 1929115784}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (59)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25708,7 +25708,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1938773436}
   - component: {fileID: 1938773437}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (41)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25792,7 +25792,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1942845000}
   - component: {fileID: 1942845001}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (50)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25876,7 +25876,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1942885555}
   - component: {fileID: 1942885556}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (53)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -25960,7 +25960,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1953028280}
   - component: {fileID: 1953028281}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (34)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -26044,7 +26044,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1958230501}
   - component: {fileID: 1958230502}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (83)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -26128,7 +26128,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1959885354}
   - component: {fileID: 1959885355}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (134)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -26212,7 +26212,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1961756980}
   - component: {fileID: 1961756981}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: terreno 1 (23)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -26296,7 +26296,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1963191565}
   - component: {fileID: 1963191566}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (74)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -26380,7 +26380,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1968959167}
   - component: {fileID: 1968959168}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (77)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -26464,7 +26464,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1971184054}
   - component: {fileID: 1971184055}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (176)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -26548,7 +26548,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1975893473}
   - component: {fileID: 1975893474}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: 2 tierra  (25)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -26716,7 +26716,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1984209617}
   - component: {fileID: 1984209618}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: terreno 1 (21)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -26800,7 +26800,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1994229484}
   - component: {fileID: 1994229485}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (198)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -26884,7 +26884,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1995097444}
   - component: {fileID: 1995097445}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (164)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -26968,7 +26968,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1995338104}
   - component: {fileID: 1995338105}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (112)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -27052,7 +27052,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2006924255}
   - component: {fileID: 2006924256}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (37)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -27136,7 +27136,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2010461117}
   - component: {fileID: 2010461118}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (17)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -27220,7 +27220,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2013181964}
   - component: {fileID: 2013181965}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (19)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -27472,7 +27472,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2020084986}
   - component: {fileID: 2020084987}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (58)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -27556,7 +27556,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2025900588}
   - component: {fileID: 2025900589}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (111)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -27640,7 +27640,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2026689008}
   - component: {fileID: 2026689009}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (24)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -27724,7 +27724,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2027015794}
   - component: {fileID: 2027015795}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (181)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -27808,7 +27808,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2033113116}
   - component: {fileID: 2033113117}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: 2 tierra  (22)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -27976,7 +27976,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2046135635}
   - component: {fileID: 2046135636}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -28060,7 +28060,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2051635210}
   - component: {fileID: 2051635211}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: 2 tierra  (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -28144,7 +28144,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2057703365}
   - component: {fileID: 2057703366}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (143)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -28228,7 +28228,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2058437864}
   - component: {fileID: 2058437865}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: 2 tierra  (18)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -28396,7 +28396,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2073243906}
   - component: {fileID: 2073243907}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (40)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -28480,7 +28480,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2073550145}
   - component: {fileID: 2073550146}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: 2 tierra  (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -28564,7 +28564,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2074458612}
   - component: {fileID: 2074458613}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (127)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -28648,7 +28648,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2079511436}
   - component: {fileID: 2079511437}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: terreno 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -28732,7 +28732,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2080658390}
   - component: {fileID: 2080658391}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (36)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -28816,7 +28816,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2086424345}
   - component: {fileID: 2086424346}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (178)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -28900,7 +28900,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2093805163}
   - component: {fileID: 2093805164}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (23)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -28984,7 +28984,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2096400592}
   - component: {fileID: 2096400593}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (185)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29068,7 +29068,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2096805710}
   - component: {fileID: 2096805711}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (13)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29152,7 +29152,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2105857716}
   - component: {fileID: 2105857717}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: 2 tierra  (11)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29236,7 +29236,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2120342849}
   - component: {fileID: 2120342850}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (82)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29320,7 +29320,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2120579113}
   - component: {fileID: 2120579114}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (217)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29404,7 +29404,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2123118047}
   - component: {fileID: 2123118048}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (93)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29488,7 +29488,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2134224674}
   - component: {fileID: 2134224675}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (156)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -29572,7 +29572,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2135545562}
   - component: {fileID: 2135545563}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: fondo verde (73)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
